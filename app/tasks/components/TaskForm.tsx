@@ -1,5 +1,5 @@
-import {useForm} from "@mantine/form";
-import {Group, TextInput} from "@mantine/core";
+import { useForm } from '@mantine/form';
+import { Group, TextInput } from '@mantine/core';
 
 export default function TaskForm() {
     const form = useForm({
